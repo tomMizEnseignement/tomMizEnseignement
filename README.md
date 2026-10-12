@@ -9,13 +9,15 @@ Patient and pedagogy-oriented, teaching and knowledge sharing are what drive me 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,git,jquery,vscode)](https://skillicons.dev)
 
-## I’m currently working on 
-
-A database of movies project for my students
-
 ## I’m currently learning :
 
 [![My Skills](https://skillicons.dev/icons?i=vue,vercel)](https://skillicons.dev)
+
+## I’m currently working on 
+
+I'm creating a project for my students, where they have to develop a database app of movies,
+where we can see KPIs like : most-watched movie, movies by genre, etc
+
 
 ## Reach me 
 
