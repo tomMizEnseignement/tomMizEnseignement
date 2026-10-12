@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **tomMizEnseignement/tomMizEnseignement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hello ! 
@@ -27,4 +27,3 @@ a database of movies project for my students
 My resumee 
 
 
--->
