@@ -15,7 +15,7 @@ A database of movies project for my students
 
 ## I’m currently learning :
 
-(https://skillicons.dev/icons?i=vue,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,vercel)](https://skillicons.dev)
 
 ## Reach me 
 
